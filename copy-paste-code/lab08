@@ -27,7 +27,7 @@ Modify the web-deployment.yaml and add these 3 lines to end:
 
 env:
   - name: SERVER
-    value: "http://events-api-svc:8082"
+      value: "http://events-api-svc:8082"
 
 ===========================================
 
